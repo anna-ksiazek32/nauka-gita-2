@@ -1,0 +1,21 @@
+/* General */
+
+body h1 {
+	color: #073323;
+	font-size: 40px;
+	margin-left: 10px;
+}
+body p {
+	color: #009966;
+	font-size: 25px; 
+	margin-left: 10px;  
+}
+
+p:first-of-type {
+	font-style: italic;	
+	color: #073323;
+}
+
+body {
+	display: flex
+}

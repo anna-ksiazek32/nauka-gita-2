@@ -1,0 +1,5 @@
+$autoprefixer-cli -o style.prefixed.css css/style.css
+
+$touch .htmlvalidate.json 
+$html-validate index.html
+
